@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://clg5o2qj43ymc"
+path="res://.godot/imported/173126__replix__death-sound-male.wav-b3ff4a9b2ad4725dfea7111aa9a91887.sample"
+
+[deps]
+
+source_file="res://Materials/sounds/Dead can dance (Death)/173126__replix__death-sound-male.wav"
+dest_files=["res://.godot/imported/173126__replix__death-sound-male.wav-b3ff4a9b2ad4725dfea7111aa9a91887.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,14 @@
+Label
+CollisionShape3D
+CharacterBody3D
+PanelContainer
+Area3D
+Container
+StaticBody3D
+Node3D
+AudioStreamPlayer3D
+DirectionalLight3D
+Camera3D
+Node
+MeshInstance3D
+RigidBody3D

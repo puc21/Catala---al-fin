@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmcf80v2uy1gs"
+path="res://.godot/imported/♩♫ Epic Chase Music ♪♬ - Run (Copyright and Royalty Free).mp3-677693f5608837e87ffde8aea7618929.mp3str"
+
+[deps]
+
+source_file="res://Materials/sounds/Tiroteig (escena)/♩♫ Epic Chase Music ♪♬ - Run (Copyright and Royalty Free).mp3"
+dest_files=["res://.godot/imported/♩♫ Epic Chase Music ♪♬ - Run (Copyright and Royalty Free).mp3-677693f5608837e87ffde8aea7618929.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

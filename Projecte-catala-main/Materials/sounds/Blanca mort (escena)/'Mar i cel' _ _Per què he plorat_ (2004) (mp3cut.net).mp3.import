@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxy51u2cipnja"
+path="res://.godot/imported/'Mar i cel' _ _Per què he plorat_ (2004) (mp3cut.net).mp3-7ee771945d0726468f19c838e724b88c.mp3str"
+
+[deps]
+
+source_file="res://Materials/sounds/Blanca mort (escena)/'Mar i cel' _ _Per què he plorat_ (2004) (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/'Mar i cel' _ _Per què he plorat_ (2004) (mp3cut.net).mp3-7ee771945d0726468f19c838e724b88c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

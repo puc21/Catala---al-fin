@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://235l0x8qf5g0"
+path="res://.godot/imported/Música de Acción y Suspenso _ Música de Instriga y Suspense _ Música Misteriosa Instrumental (1).mp3-23b141f039adb613cabc23a117f957f1.mp3str"
+
+[deps]
+
+source_file="res://Materials/sounds/Navalles (escena)/Música de Acción y Suspenso _ Música de Instriga y Suspense _ Música Misteriosa Instrumental (1).mp3"
+dest_files=["res://.godot/imported/Música de Acción y Suspenso _ Música de Instriga y Suspense _ Música Misteriosa Instrumental (1).mp3-23b141f039adb613cabc23a117f957f1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
